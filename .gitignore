@@ -1,2 +1,20 @@
-custom.js
-custom.css
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Sphinx documentation
+docs/_build/
+
+.idea
+
+#pip install
+Python_contrib_nbextensions.egg-info/
+dist/
